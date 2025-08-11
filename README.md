@@ -14,7 +14,7 @@ This is just the beginning, but I'm committed to learning every day and getting 
 ## Deutsch
 Seit meiner Kindheit interessiere ich mich fürs Programmieren — wohl auch, weil meine Brüder echte Tech-Nerds sind. Mich fasziniert, was mit Software alles möglich ist.
 
-Aktuell lerne ich, mit APIs zu arbeiten: mit fetch und HTTP-Clients (z. B. Postman/Insomnia) sowie durch das Analysieren von Netzwerk-Requests mit Tools wie Fiddler.
+Aktuell lerne ich, mit APIs zu arbeiten: mit fetch und HTTP-Clients (z. B. Insomnia) sowie durch das Analysieren von Netzwerk-Requests mit Tools wie Fiddler.
 
 Derzeit konzentriere ich mich auf C# und JavaScript und schaue mir auch Java an.
 
